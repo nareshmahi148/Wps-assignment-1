@@ -1,0 +1,57 @@
+@import url('http://fonts.googleapis.com/css?family=poppins:200,300,400,500,600,700,800,900%display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: montserrat;
+    background: whitesmoke;
+    height: 100vh;
+    overflow: hidden;
+}
+.cl{
+    float: left;
+    left: 50%;
+    max-height: 580px;
+    margin: 70px 20px 60px 30px;
+    background: white;
+    border: 2px solid brown;
+    
+}
+.cl img{
+    width: 530px;
+    height: 470px;
+    margin: 60px 20px 60px 30px ;
+    border-radius: 30px;
+}
+.cl2{
+    max-height: 580px;
+    float: center;
+    margin: 70px 20px 60px 30px ;
+    border: 2px solid green;
+    background: white;
+}
+.cl2 a{
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    border-radius: 10px;
+    margin: 80px 40px 60px 70px;
+    padding: 80px 30x 40px 60px;
+    background:burlywood;
+    outline: none;
+    border : 1px solid;
+    text-decoration: none;
+    left: 70%;
+}
+a:hover{
+    border-color:grey;
+    transition: .5s;
+}
+.heading{
+    text-align: center;
+    margin: 60px 40px 0px 180px;
+    background: white;
+    color: darkmagenta; 
+    font-size: 60px;
+    border-bottom: 3px sloid slategrey;
+}
